@@ -60,4 +60,12 @@
     style:
       { color: "rgb(244, 221, 15)" }
   }
+  {
+    type: "button"
+    icon: "chatbox-working"
+    callback: "atom-html-preview:toggle"
+    iconset: "ion"
+    style:
+      { color: "rgb(246, 129, 179)" }
+  }
 ]
